@@ -26,8 +26,8 @@ Full Stack Developer with 2+ years in React Native, Angular, React, Express, and
   - Blockchain Development: Demonstrated full-stack dApp development skills by building decentralized applications.
 
 ### Education
-- **2019 - 2022**:  NMSSVN college, Bachelor of Computer Science
-
+ **2019 - 2022**: IIIT NSVVN college, Bachelor of Computer Science
+ 
 ### Skills
 - React
 - Node.js
