@@ -1,4 +1,3 @@
-# Rajkumar Thirumalaikani
 ## Full Stack Developer
 
 ### Contact info
