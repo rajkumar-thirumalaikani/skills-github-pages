@@ -1,11 +1,10 @@
 # Rajkumar Thirumalaikani
 ## Full Stack Developer
 
-<contact_info>
+### Contact info
 - Email: rajkumarthirumalaikani@gmail.com
 - LinkedIn: linkedin.com/in/rajkumar-thirumalaikani
 - Phone: +919092790991
-</contact_info>
 
 ### Profile
 Full Stack Developer with 2+ years in React Native, Angular, React, Express, and Node.js. Experienced in building high-performing, scalable and web apps. Specializing in real-time tracking and monitoring. Quick to learn new technologies and deliver reliable results.
